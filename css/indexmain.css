@@ -8,7 +8,7 @@ main {
 .WebSiteHome {
     width: 100%;
     height: 400px;
-    background-image: url("/img/rompecabezasmaderahomepage.jpg");
+    background-image: url("/DamPuzzles/img/rompecabezasmaderahomepage.jpg");
     background-size:cover;
     display: flex;
     justify-content: center;
