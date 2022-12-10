@@ -7,18 +7,12 @@ main {
 
 .WebSiteHome {
     width: 100%;
-    height: 400px;
-    background-image: url("/DamPuzzles/img/rompecabezasmaderahomepage.jpg");
-    background-size:cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 450px;
+    overflow: hidden;
 }
 
-.WebSiteHome h1 {
-    font-size: 45px;
-    color: white;
-    mix-blend-mode: difference;
+.carousel-inner {
+    height: 450px;
 }
 
 .Products {
